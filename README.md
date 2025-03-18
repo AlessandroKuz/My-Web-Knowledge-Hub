@@ -25,3 +25,4 @@ For an in-depth definition of each term I encountered you can use the following 
 **KEEP IN MIND THAT THIS IS A WIP (Work In Progress) PAGE**, so there are currently no garantees of completeness.
 ## Web-Study-Inbox
 For more details go to the following page: [[Web-Study-Index]].
+
