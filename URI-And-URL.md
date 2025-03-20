@@ -53,3 +53,4 @@ For relative URL navigation the same logic of a #UNIX path is applied (where `.`
 ## Semantic URLs
 Semantic URLs are URLs that abstract away the technical components and only keep the main components, making them easier to use and remember.
 For example `google.com/search/puppies` is a #Semantic-URL whereas `google.com/?s=puppies` is not. (EXAMPLE MIGHT NOT WORK BUT ILLUSTRATES THE CONCEPT).
+

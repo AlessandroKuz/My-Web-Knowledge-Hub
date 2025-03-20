@@ -5,3 +5,4 @@
 - **403**: Invalid permissions
 - **404**: Non existing page
 - **503**: Server error
+

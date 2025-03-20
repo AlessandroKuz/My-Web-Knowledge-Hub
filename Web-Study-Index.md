@@ -134,3 +134,4 @@ Domain names ([[URI-And-URL#Domain/Authority]]) are an important way to convert 
 - A #Request is what a client asks of a server
 - A #Response is the server answer of the clients request
 Client Request -> Server Response
+

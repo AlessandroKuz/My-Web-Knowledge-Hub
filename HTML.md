@@ -14,3 +14,4 @@ Certain #HTML elements when parsed will trigger new #HTTP requests, for example:
 Each HTML element can also have some associated [[CSS]] proprieties, which define things like color, shape, dimensions and so on.
 ## JavaScript
 For extra page interactivity [[JavaScript]] can be used.
+

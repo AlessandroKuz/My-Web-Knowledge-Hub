@@ -36,3 +36,4 @@ links:
 | [`PATCH`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/PATCH)     | No   | No         | Conditional* |
 | [`CONNECT`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods/CONNECT) | No   | No         | No           |
 * #POST and #PATCH are #cacheable when responses explicitly include freshness information and a matching [Content-Location](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Location) header.
+

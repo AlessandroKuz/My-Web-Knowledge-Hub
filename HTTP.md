@@ -15,3 +15,4 @@ The assembling of the pieces into a web page is called #Rendering.
 - [[HTTP-Requests-Methods]]
 ## Status codes
 It might be interesting to know the most common [[HTTP-Status-Codes]].
+
